@@ -37,9 +37,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4AAF09C326D251D800AA2351 /* screenshots */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = screenshots;
+			sourceTree = "<group>";
+		};
 		4ABDCAFC26D12271003B7998 = {
 			isa = PBXGroup;
 			children = (
+				4AAF09C326D251D800AA2351 /* screenshots */,
 				4ABDCB0726D12271003B7998 /* SwitUiPrep */,
 				4ABDCB0626D12271003B7998 /* Products */,
 			);
